@@ -1,4 +1,3 @@
-![WhatsApp Image 2023-11-20 at 9 13 18 PM (1)](https://github.com/Narasimhan05/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/132819871/3fda8a0c-091a-4117-ab6b-fc0015124e61)# Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
